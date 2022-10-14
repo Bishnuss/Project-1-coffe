@@ -59,8 +59,10 @@ head {
 }
 
 body {
+    /* background-image: url("./images/GIF.gif"); */
+    /* background-size: cover; */
     background-color: black;
-    /* color: rgb(235, 241, 241);    background-image: url("./coffee-beans-top-view-background.jpg"); */
+    color: rgb(235, 241, 241);    
     /* background-size: cover; */
 
 
@@ -308,7 +310,7 @@ span {
 }
 
 .col-8 {
-    background-image: url("./images/about\ cover.jpg");
+    background-image: url("./images/beans\ gif.gif");
     background-size: cover;
 }
 
